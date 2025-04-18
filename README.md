@@ -1,2 +1,3 @@
 # demo-repo
-demo reposatory
+demo repository
+author - avadhani
