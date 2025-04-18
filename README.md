@@ -1,4 +1,4 @@
 # demo-repo
 demo repository
 <br>
-author - avadhani
+author - avadhani(alpha knowledge)
